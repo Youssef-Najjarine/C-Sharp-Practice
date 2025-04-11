@@ -12,3 +12,4 @@ C:\Users\youss\Desktop\repos\C-Sharp-Practice\General-Practice\General-Practice\
 C:\Users\youss\Desktop\repos\C-Sharp-Practice\General-Practice\General-Practice\obj\Debug\net9.0\General-Practice.pdb
 C:\Users\youss\Desktop\repos\C-Sharp-Practice\General-Practice\General-Practice\obj\Debug\net9.0\General-Practice.genruntimeconfig.cache
 C:\Users\youss\Desktop\repos\C-Sharp-Practice\General-Practice\General-Practice\obj\Debug\net9.0\ref\General-Practice.dll
+C:\Users\youss\Desktop\repos\C-Sharp-Practice\General-Practice\General-Practice\obj\Debug\net9.0\General-Practice.sourcelink.json
