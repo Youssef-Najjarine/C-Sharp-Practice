@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\youss\\Desktop\\repos\\C-Sharp-Practice\\General-Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9EA1A0-924D-44B6-B7BD-BC584DC09DB4}|General-Practice\\General-Practice.csproj|c:\\users\\youss\\desktop\\repos\\c-sharp-practice\\general-practice\\general-practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9EA1A0-924D-44B6-B7BD-BC584DC09DB4}|General-Practice\\General-Practice.csproj|solutionrelative:general-practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\Desktop\\repos\\C-Sharp-Practice\\General-Practice\\General-Practice\\Program.cs",
+              "RelativeDocumentMoniker": "General-Practice\\Program.cs",
+              "ToolTip": "C:\\Users\\youss\\Desktop\\repos\\C-Sharp-Practice\\General-Practice\\General-Practice\\Program.cs",
+              "RelativeToolTip": "General-Practice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:16:50.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
